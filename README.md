@@ -83,6 +83,11 @@ Feel free to ask me any questions about front-end web development by email (<a h
                     </td>
                 </tr></table>
   </div>
+  <br>
+  <p align="center">
+    NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
+</p>
+<br>
   
 ------
 Last Mpodified By: [Rana Zeeshan Rafiq](https://github.com/zeeshanrafiqrana)

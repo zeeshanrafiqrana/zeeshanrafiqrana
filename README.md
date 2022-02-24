@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 |                                                                                                           |                                                                                      |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeeshanrafiqrana&count_private=true) | [![](https://github-readme-streak-stats.herokuapp.com/?user=zeeshanrafiqrana&theme=material-palenight)](https://github.com/zeeshanrafiqrana) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeeshanrafiqrana&count_private=true&show_icons=true&theme=material-palenight) | [![](https://github-readme-streak-stats.herokuapp.com/?user=zeeshanrafiqrana&theme=material-palenight)](https://github.com/zeeshanrafiqrana) |
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">

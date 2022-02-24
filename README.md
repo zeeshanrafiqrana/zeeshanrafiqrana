@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 |                                                                                                           |                                                                                      |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![Github stats][![](https://github-readme-stats.vercel.app/api?username=zeeshanrafiqrana&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/zeeshanrafiqrana) | [![](https://github-readme-streak-stats.herokuapp.com/?user=zeeshanrafiqrana&theme=material-palenight)](https://github.com/zeeshanrafiqrana) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeeshanrafiqrana&count_private=true) | [![](https://github-readme-streak-stats.herokuapp.com/?user=zeeshanrafiqrana&theme=material-palenight)](https://github.com/zeeshanrafiqrana) |
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
@@ -90,5 +90,5 @@ Feel free to ask me any questions about Python development | Web Development | M
 <br>
   
 ------
-Last Mpodified By: [Rana Zeeshan Rafiq](https://github.com/zeeshanrafiqrana)
-Last Edited on: 20/02/2022
+Last Modified By: [Rana Zeeshan Rafiq](https://github.com/zeeshanrafiqrana)
+Last Edited on: 24/02/2022

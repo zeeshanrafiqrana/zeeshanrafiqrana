@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 |                                                                                                           |                                                                                      |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![Github stats](https://github-readme-stats.vercel.app/api?username=zeeshanrafiqrana&show_icons=true&locale=en) | ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=zeeshanrafiqrana&) |
+| ![Github stats][![](https://github-readme-stats.vercel.app/api?username=zeeshanrafiqrana&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/zeeshanrafiqrana) | ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=zeeshanrafiqrana&) |
 
 <table style="border: none">
   <tr>

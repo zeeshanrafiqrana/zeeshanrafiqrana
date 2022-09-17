@@ -103,8 +103,11 @@ Feel free to ask me any questions about Python development | Web Development | M
                 </tr></table>
   </div>
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanrafiqrana&theme=material-palenight&hide=Jupyter&layout=compact)]
-  <p align="center">
+<table>
+    <tr>
+    <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanrafiqrana&langs_count=10&theme=merko&layout=compact&hide=html">
+    </tr>
+</table>
     NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 </p>
 <br>

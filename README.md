@@ -97,7 +97,7 @@ You can click the Preview link to take a look at your changes.
 ## :raised_hands: Let's Learn Together!
 
 Feel free to ask me any questions about Python development | Web Development | ML | Odoo | OpenERP
-    Email  (<a href="mailto:zeeshanrafiqrana@gmail.com">zeeshanrafiqrana@gmail.com</a>). As simple as that!
+    Email  (<a href="mailto:zeeshanrafiqrana01@gmail.com">zeeshanrafiqrana01@gmail.com</a>). As simple as that!
 
   </td>
   <td width="50%" valign="top">

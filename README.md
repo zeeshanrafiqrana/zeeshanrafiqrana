@@ -138,17 +138,7 @@ Feel free to ask me any questions about Python development | Web Development | M
                         █░░░░░░░░░&nbsp;&nbsp;(17.92 %)
                     </td>
                 </tr>
-                <tr>
-                    <td width=220px;>
-                        CSS
-                    </td>
-                    <td width=145px;>
-                        2 hrs 27 mins
-                    </td>
-                    <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(14.08 %)
-                    </td>
-                </tr></table>
+                </table>
   </div>
   <br>
 <table>

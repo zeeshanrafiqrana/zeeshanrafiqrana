@@ -186,8 +186,9 @@ Feel free to ask me any questions about Python development | Web Development | M
 
 <details>
   <summary>
-   Google Colab AI/ML Gist: <p><a href="https://colab.research.google.com/gist/zeeshanrafiqrana/755bf0a48340666a6680bdb4153dc795/diabetes-predictions.ipynb">Colab Notebook</a></p>
+   Google Colab AI/ML Gist
   </summary>
+  <p>: <a href="https://colab.research.google.com/gist/zeeshanrafiqrana/755bf0a48340666a6680bdb4153dc795/diabetes-predictions.ipynb">Colab Notebook</a></p>
 </details>
 
 

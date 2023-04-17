@@ -178,11 +178,18 @@ Feel free to ask me any questions about Python development | Web Development | M
     </p>
 </details>
 <details>
-<p><a href="https://colab.research.google.com/gist/zeeshanrafiqrana/755bf0a48340666a6680bdb4153dc795/diabetes-predictions.ipynb">Colab Notebook</a></p>
   <summary>
    Notion Portfolio  Email <a href="https://zrafiq.notion.site">https://zrafiq.notion.site</a>
   </summary>
 </details>
+
+
+<details>
+  <summary>
+   Google Colab AI/ML Gist: <p><a href="https://colab.research.google.com/gist/zeeshanrafiqrana/755bf0a48340666a6680bdb4153dc795/diabetes-predictions.ipynb">Colab Notebook</a></p>
+  </summary>
+</details>
+
 
 ------
 Last Modified By: [Rana Zeeshan Rafiq](https://github.com/zeeshanrafiqrana)

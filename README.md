@@ -176,9 +176,9 @@ Feel free to ask me any questions about Python development | Web Development | M
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
     <!-- <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Twilio" /> -->
     </p>
-
 </details>
 <details>
+<p><a href="https://colab.research.google.com/gist/zeeshanrafiqrana/755bf0a48340666a6680bdb4153dc795/diabetes-predictions.ipynb">Colab Notebook</a></p>
   <summary>
    Notion Portfolio  Email <a href="https://zrafiq.notion.site">https://zrafiq.notion.site</a>
   </summary>

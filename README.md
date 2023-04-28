@@ -179,6 +179,7 @@ Feel free to ask me any questions about Python development | Web Development | M
     <!-- <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Twilio" /> -->
     </p>
 </details>
+
 <details>
   <summary>
    Notion Portfolio  Email <a href="https://zrafiq.notion.site">https://zrafiq.notion.site</a>

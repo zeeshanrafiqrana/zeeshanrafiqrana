@@ -190,7 +190,6 @@ Feel free to ask me any questions about Python development | Web Development | M
   <p>: <a href="https://colab.research.google.com/gist/zeeshanrafiqrana/755bf0a48340666a6680bdb4153dc795/diabetes-predictions.ipynb">Colab Notebook</a></p>
 </details>
 
-
-------
+----------------------------------------------------------------------------
 Last Modified By: [Rana Zeeshan Rafiq](https://github.com/zeeshanrafiqrana)
 Last Modified on: 28/03/2023

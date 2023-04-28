@@ -183,7 +183,6 @@ Feel free to ask me any questions about Python development | Web Development | M
   </summary>
 </details>
 
-
 <details>
   <summary>
    Google Colab AI/ML Gist

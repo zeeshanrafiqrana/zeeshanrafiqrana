@@ -21,7 +21,6 @@ You can click the Preview link to take a look at your changes.
 |                                                                                                           |                                                                                      |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | ![Zeeshan Rafiq's stats](https://github-readme-stats.vercel.app/api?username=zeeshanrafiqrana&count_private=true&show_icons=true&theme=material-palenight) | [![](https://github-readme-streak-stats.herokuapp.com/?user=zeeshanrafiqrana&theme=material-palenight)](https://github.com/zeeshanrafiqrana) | 
-
 <h3>My coding stack: </h3>
 <!-- <p>
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />

@@ -92,7 +92,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 <table style="border: none">
-  <tr>
+  <tr> 
   <td width="50%" valign="top">
 
 ## :raised_hands: Let's Learn Together!

@@ -114,32 +114,9 @@ Feel free to ask me any questions about Python development | Web Development | M
 
 
 <div>
-  
-<h2>📊 Weekly development breakdown: </h2>
-<table>
-                <tr>
-                    <td width=215px;>
-                        Javascript
-                    </td>
-                    <td>
-                        11 hrs 43 mins
-                    </td>
-                    <td>
-                        ██████░░░░&nbsp;&nbsp;(67.01 %)
-                    </td>
-                </tr>
-                <tr>
-                    <td width=220px;>
-                        Python
-                    </td>
-                    <td width=145px;>
-                        3 hrs 8 mins
-                    </td>
-                    <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(17.92 %)
-                    </td>
-                </tr>
-                </table>
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
   </div>
   <br>
 <table>

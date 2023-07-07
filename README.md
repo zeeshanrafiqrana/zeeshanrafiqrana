@@ -114,9 +114,8 @@ Feel free to ask me any questions about Python development | Web Development | M
 
 
 <div>
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+[![Zeeshan's Last Year stats](https://github-readme-stats.vercel.app/api/wakatime?username=zeeshanrafiqrana)](https://github.com/anuraghazra/github-readme-stats)
+
   </div>
   <br>
 <table>

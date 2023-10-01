@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 | ![Zeeshan Rafiq's stats](https://github-readme-stats.vercel.app/api?username=zeeshanrafiqrana&count_private=true&show_icons=true&theme=material-palenight) | [![](https://github-readme-streak-stats.herokuapp.com/?user=zeeshanrafiqrana&theme=material-palenight)](https://github.com/zeeshanrafiqrana) |
 
 <h3>My coding stack: </h3>
-<!-- <p>
+<p>
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
   <img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png" />
   <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" />
@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="Xml" src="https://s10.gifyu.com/images/xml-vector-icon-removebg-preview-1.png" />
   </br>
 
-</p> -->
+</p>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />

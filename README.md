@@ -76,18 +76,18 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white" alt="Istio" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-<img alt="Odoo" src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_community_member_rgb.svg" />
-<img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" />  
+<!-- <img alt="Odoo" src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_community_member_rgb.svg" />
+<img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" />   -->
 <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
 <img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
 <img alt="Xml" src="https://s10.gifyu.com/images/xml-vector-icon-removebg-preview-1.png" 
 
 </p>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/zeeshanrafiqrana/odooapps?style=plastic)
+<!--![GitHub repo size](https://img.shields.io/github/repo-size/zeeshanrafiqrana/odooapps?style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/zeeshanrafiqrana/odooapps?style=plastic)
 ![GitHub top language](https://img.shields.io/github/languages/top/zeeshanrafiqrana/odooapps?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/zeeshanrafiqrana/odooapps?color=red&style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/zeeshanrafiqrana/odooapps?color=red&style=plastic)-->
 
 <br/>
 

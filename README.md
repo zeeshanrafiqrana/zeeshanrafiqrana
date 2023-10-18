@@ -114,7 +114,7 @@ Feel free to ask me any questions about Python development | Web Development | M
 
 
 <div>
-[![Zeeshan's Last Year stats](https://github-readme-stats.vercel.app/api/wakatime?username=zeeshanrafiqrana)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Zeeshan's Last Year stats](https://github-readme-stats.vercel.app/api/wakatime?username=zeeshanrafiqrana)](https://github.com/anuraghazra/github-readme-stats)-->
 
   </div>
   <br>

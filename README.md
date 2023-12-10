@@ -27,7 +27,6 @@
   <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" />  
   <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
   <img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
-  <img alt="Xml" src="https://s10.gifyu.com/images/xml-vector-icon-removebg-preview-1.png" />
   </br>
 
 </p>
@@ -75,8 +74,6 @@
 <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" />   -->
 <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
 <img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
-<img alt="xml" src="https://cdn-icons-png.flaticon.com/512/136/136444.png" />
-
 </p>
 
 <!--![GitHub repo size](https://img.shields.io/github/repo-size/zeeshanrafiqrana/odooapps?style=plastic)

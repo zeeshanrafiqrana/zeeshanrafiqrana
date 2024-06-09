@@ -21,8 +21,8 @@
 <h3>My coding stack: </h3>
 <p>
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
+   <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" />
   <img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png" />
-  <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" />
 <!--   <img alt="Odoo" src="https://s10.gifyu.com/images/odoo.png" /> -->
   <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" />  
   <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
@@ -44,8 +44,8 @@
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<!-- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /> -->
-<!-- <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" /> -->
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
 <!-- <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /> -->
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />

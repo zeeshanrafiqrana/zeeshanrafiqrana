@@ -71,7 +71,7 @@ With a strong focus on **clean architecture, performance optimization, and clien
 ### 🔹 Enterprise Web Application
 
 * Scalable full-stack solution for business operations
-* Tech: React, Node.js, MongoDB
+* Tech: Python, React, Node.js, MongoDB
 
 ### 🔹 SaaS Platform
 
@@ -81,7 +81,7 @@ With a strong focus on **clean architecture, performance optimization, and clien
 ### 🔹 Backend API System
 
 * High-performance REST APIs
-* Tech: Express.js, PostgreSQL
+* Tech: Express.js, PostgreSQL, Django, FastAPI, Opensource frameworks
 
 ---
 
@@ -120,7 +120,7 @@ With a strong focus on **clean architecture, performance optimization, and clien
 
 * 💼 LinkedIn: https://www.linkedin.com/in/zeeshanrafiqrana/
 * 🐙 GitHub: https://github.com/zeeshanrafiqrana
-* 📧 Email: [ranazeeshanrafique@gmail.com]
+* 📧 Email: [zeeshanrafiqrana@gmail.com]
 * 🌍 Portfolio: [zrafiq.com]
 * 🐦 Twitter / X: [rzeeshanrafiq]
 
